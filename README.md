@@ -3,7 +3,7 @@
 <!-- <h2>Student, Web Developer, </h2>
 <h2>I'm Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2> -->
 
-> <h2>Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">Techsevin</a></h2>
+> <h2>Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2>
 > <h2>Third year Student of B.E.</h2>
 
 ### `Languages and Tools:`
