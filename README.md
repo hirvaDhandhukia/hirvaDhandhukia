@@ -1,15 +1,12 @@
-<h1 align="center">Hi! I'm Hirva Dhandhukia</h1>
-<h3 align="center">Student, Web Developer</h3>
+<h1 align="center">Hi! I'm Hirva Dhandhukia 👩‍💻</h1>
 
-<!-- ### I'm an Intern at techsevin.com ### -->
+<!-- <h2>Student, Web Developer, </h2>
+<h2>I'm Intern at <a target="_blank" href="https://techsevin.com/">Techsevin</a></h2> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirvadhandhukia&label=Profile%20views&color=dced31&style=flat" alt="hirvadhandhukia" /> </p>
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
+> <h2>Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">Techsevin</a></h2>
+> <h2>Third year Student of B.E.</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+### `Languages and Tools:`
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -30,9 +27,17 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirvadhandhukia&show_icons=true&theme=light&locale=en&layout=compact" alt="hirvadhandhukia" /></p>
+### `GitHub stats:`
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirvadhandhukia&show_icons=true&theme=dark&locale=en&layout=compact" alt="hirvadhandhukia" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=light&locale=en" alt="hirvadhandhukia" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirvadhandhukia&theme=dark" alt="hirvadhandhukia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=light&locale=en" alt="hirvadhandhukia" /></p>
+### `Profile`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirvadhandhukia&label=Profile%20views&color=dc143c&style=flat" alt="hirvadhandhukia" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirvadhandhukia&theme=light" alt="hirvadhandhukia" /></p>
 
+<!-- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p> -->
+<!-- #DC143C -->
