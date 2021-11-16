@@ -32,12 +32,12 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=light&locale=en" alt="hirvadhandhukia" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirvadhandhukia&theme=dark" alt="hirvadhandhukia" /></p>
 
-### `Profile`
+### `Profile:`
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirvadhandhukia&label=Profile%20views&color=dc143c&style=flat" alt="hirvadhandhukia" /> </p>
 
-
-<!-- 
-<h3 align="left">Connect with me:</h3>
+ 
+### `Connect with me:`
 <p align="left">
-</p> -->
+<a href="https://www.linkedin.com/in/hirva-dhandhukia-9415231a0/" target="a _blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hirva Dhandhukia" height="30" width="40" /></a>
+</p>
 <!-- #DC143C -->
