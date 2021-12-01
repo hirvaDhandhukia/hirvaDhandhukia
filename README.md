@@ -28,15 +28,15 @@
 </p>
 
 ### `GitHub stats:`
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirvadhandhukia&show_icons=true&theme=dark&locale=en&layout=compact" alt="hirvadhandhukia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirvaDhandhukia&show_icons=true&theme=dark&locale=en&layout=compact" alt="hirvadhandhukia" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=react&locale=en" alt="hirvadhandhukia" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirvadhandhukia&theme=dark" alt="hirvadhandhukia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirvaDhandhukia&theme=dark" alt="hirvadhandhukia" /></p>
 <a href="https://github.com/hirvaDhandhukia/github-readme-activity-graph"><img alt="Hirva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!-- <br/> -->
 
 
 ### `Profile:`
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirvadhandhukia&label=Profile%20views&color=dc143c&style=flat" alt="hirvadhandhukia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirvaDhandhukia&label=Profile%20views&color=dc143c&style=flat" alt="hirvadhandhukia" /> </p>
 
  
 ### `Connect with me:`
