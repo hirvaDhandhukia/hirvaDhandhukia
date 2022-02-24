@@ -3,7 +3,7 @@
 <!-- <h2>Student, Web Developer, </h2>
 <h2>I'm Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2> -->
 
-> <h2>Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2>
+> <h2>Headless Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2>
 > <h2>Third year Student of B.E.</h2>
 
 ### `Languages and Tools:`
@@ -25,6 +25,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  -->
+<!-- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original-wordmark.svg" alt="graphql" width="40" height="40"/> </a>  -->
 </p>
 
 ### `GitHub stats:`
