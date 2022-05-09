@@ -3,7 +3,7 @@
 <!-- <h2>Student, Web Developer, </h2>
 <h2>I'm Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2> -->
 
-> <h2>Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2>
+> <h2>Headless Magento 2 Developer Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2>
 > <h2>Third year Student of B.E.</h2>
 
 ### `Languages and Tools:`
@@ -50,6 +50,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <!-- tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<!-- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original-wordmark.svg" alt="graphql" width="40" height="40"/> </a>  -->
 </p>
 
 ### `GitHub stats:`
