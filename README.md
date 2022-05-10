@@ -50,6 +50,12 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <!-- tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<!-- magento -->
+<a  href="https://scandipwa.com/"  target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/magento2/images/magento2.png"  alt="magento2" width="40" height="40"/>  </a>
+<!-- scandipwa -->
+<a  href="https://scandipwa.com/"  target="_blank" rel="noreferrer"> <img src="https://scandipwa.com/media/logo/stores/3/ScandiPWA-logo.png"  alt="scandipwa" width="95" height="40"/>  </a>
+
+<!-- graphql -->
 <!-- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original-wordmark.svg" alt="graphql" width="40" height="40"/> </a>  -->
 </p>
 
