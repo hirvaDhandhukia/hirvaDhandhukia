@@ -51,7 +51,7 @@
 <!-- tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <!-- magento -->
-<a  href="https://scandipwa.com/"  target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/magento2/images/magento2.png"  alt="magento2" width="40" height="40"/>  </a>
+<a  href="https://devdocs.magento.com/"  target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/magento2/images/magento2.png"  alt="magento2" width="40" height="40"/>  </a>
 <!-- scandipwa -->
 <a  href="https://scandipwa.com/"  target="_blank" rel="noreferrer"> <img src="https://scandipwa.com/media/logo/stores/3/ScandiPWA-logo.png"  alt="scandipwa" width="95" height="40"/>  </a>
 
