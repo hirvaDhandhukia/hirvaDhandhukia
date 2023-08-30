@@ -52,8 +52,14 @@
 
 <!-- <br/> -->
 
-  
-  
+
+### `Resume:`
+<!-- <embed  src= "https://drive.google.com/file/d/1HwrXvrbOAmDYt0Wwq-P34LHbSLmKlUzY/view?usp=drive_link" type="application/pdf" width="800" height="500" />
+<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
+</object> -->
+<a  href="https://drive.google.com/file/d/1HwrXvrbOAmDYt0Wwq-P34LHbSLmKlUzY/view?usp=drive_link"  target="_blank"  rel="noreferrer">  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png"  alt="docker"  width="30"  height="30"/>  </a>
+
+
 
 ### `Profile:`
 
