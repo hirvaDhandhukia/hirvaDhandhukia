@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi! I'm Hirva Dhandhukia 👩‍💻</h1>
+<h1  align="center">Hi! I'm Hirva 👩‍💻</h1>
 
   
 
@@ -64,7 +64,7 @@
 ### `Connect with me:`
 
 <p  align="left">
-<!-- linkedin --> <a  href="https://www.linkedin.com/in/hirva-dhandhukia-9415231a0/"  target="a _blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="Hirva Dhandhukia"  height="30"  width="40"  /></a> <!-- codesandbox --> <a  href="https://codesandbox.com/https://codesandbox.io/u/hirva.dhandhukia"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"  alt="https://codesandbox.io/u/hirva.dhandhukia"  height="30"  width="40"  /></a> <!-- hashnode --> <a  href="https://hashnode.com/@hirvaDhandhukia"  target="blank"><img  align="center"  src="https://pbs.twimg.com/profile_images/1609160174077632513/P_PHswh-_400x400.jpg"  alt="https://hashnode.com/@hirvaDhandhukia"  height="35"  width="40"  /></a>
+<!-- linkedin --> <a  href="https://www.linkedin.com/in/hirva-dhandhukia/"  target="a _blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="Hirva Dhandhukia"  height="30"  width="40"  /></a> <!-- codesandbox --> <a  href="https://codesandbox.com/https://codesandbox.io/u/hirva.dhandhukia"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"  alt="https://codesandbox.io/u/hirva.dhandhukia"  height="30"  width="40"  /></a> <!-- hashnode --> <a  href="https://hashnode.com/@hirvaDhandhukia"  target="blank"><img  align="center"  src="https://pbs.twimg.com/profile_images/1609160174077632513/P_PHswh-_400x400.jpg"  alt="https://hashnode.com/@hirvaDhandhukia"  height="35"  width="40"  /></a>
 
 </p>
 
