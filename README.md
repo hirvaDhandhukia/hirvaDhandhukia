@@ -60,17 +60,20 @@
 <a  href="https://drive.google.com/file/d/1hK9zR08g6C262OVdszFaxb_jfK7YB2XC/view?usp=sharing"  target="_blank"  rel="noreferrer">  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png"  alt="docker"  width="30"  height="30"/>  </a>
 
 
-
-### `Profile:`
-
-<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=hirvaDhandhukia&label=Profile%20views&color=dc143c&style=flat"  alt="hirvadhandhukia"  />  </p>
-
-  
+ 
 
 ### `Connect with me:`
 
 <p  align="left">
 <!-- linkedin --> <a  href="https://www.linkedin.com/in/hirva-dhandhukia/"  target="a _blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="Hirva Dhandhukia"  height="30"  width="40"  /></a> <!-- codesandbox --> <a  href="https://codesandbox.com/https://codesandbox.io/u/hirva.dhandhukia"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"  alt="https://codesandbox.io/u/hirva.dhandhukia"  height="30"  width="40"  /></a> <!-- hashnode --> <a  href="https://hashnode.com/@hirvaDhandhukia"  target="blank"><img  align="center"  src="https://pbs.twimg.com/profile_images/1609160174077632513/P_PHswh-_400x400.jpg"  alt="https://hashnode.com/@hirvaDhandhukia"  height="35"  width="40"  /></a>
+
+
+
+### `Profile:`
+
+<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=hirvaDhandhukia&label=Profile%20views&color=dc143c&style=flat"  alt="hirvadhandhukia"  />  </p>
+
+
 
 </p>
 
