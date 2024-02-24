@@ -11,12 +11,12 @@
 
 >  <h2>Former Headless-Magento2 Developer at <a  target="_blank"  href="https://techsevin.com/">TechSevin</a></h2>
 
->  <h2>Graduate B.E. in Information Technology</h2>
+>  <h2>B.E. in Information Technology - 2023</h2>
 
 <!-- >  <h2>Web Developing </h2> -->
   
 
-### `Languages and Tools I'm Proficient in :`
+### `Languages and Tools I'm Proficient in:`
 
 <p  align="left">
 
