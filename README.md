@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi! I'm Hirva 👩‍💻</h1>
+<h1  align="center">Hi there! I'm Hirva 👩‍💻</h1>
 
   
 
@@ -7,16 +7,19 @@
 
 <h2>I'm Intern at <a target="_blank" href="https://techsevin.com/">TechSevin</a></h2> -->
 
-  
+
+
+>  <h2>Grad Student at <a  target="_blank"  href="/">Dalhousie University</a> | Fall 2024</h2>
+
+>  <h2>Full-Stack Web Developer</h2>
 
 >  <h2>Former Headless-Magento2 Developer at <a  target="_blank"  href="https://techsevin.com/">TechSevin</a></h2>
 
->  <h2>B.E. in Information Technology - 2023</h2>
+>  <h2>Bachelors in Information Technology | 2019-2023</h2>
 
-<!-- >  <h2>Web Developing </h2> -->
   
 
-### `Languages and Tools I'm Proficient in:`
+### `Languages and Tools:`
 
 <p  align="left">
 
@@ -48,7 +51,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=react&locale=en" alt="hirvadhandhukia" /></p> -->
 
-<!-- <a  href="https://github.com/hirvaDhandhukia/github-readme-activity-graph"><img  alt="Hirva's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a> -->
+<a  href="https://github.com/hirvaDhandhukia/github-readme-activity-graph"><img  alt="Hirva's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
 
 <!-- <br/> -->
 
