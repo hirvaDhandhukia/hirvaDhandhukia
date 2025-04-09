@@ -9,7 +9,7 @@
 
 
 
->  <h2>Grad Student at <a  target="_blank"  href="/">Dalhousie University</a> | Fall 2024</h2>
+>  <h2>Grad Student at <a  target="_blank"  href="/">Dalhousie University</a></h2>
 
 >  <h2>Full-Stack Web Developer</h2>
 
